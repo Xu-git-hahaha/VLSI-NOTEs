@@ -46,7 +46,7 @@
     *   使用刻蚀技术 (etching technique) 将图案转移到基底 (substrate)。
     *   刻蚀去除无光刻胶保护的基底材料。
     *   最终在基底上复制光刻胶图案。
-![image](https://github.com/user-attachments/assets/ee7ae3c3-db10-480a-bfb5-94520b69f627){width="30px"}
+![image](https://github.com/user-attachments/assets/ee7ae3c3-db10-480a-bfb5-94520b69f627)
 
 
 **光刻胶 (Resists for Energy Beam Lithography)**
@@ -141,7 +141,22 @@
 *   **光刻胶曝光和显影过程中的化学过程 (The chemical processes in photoresist exposure and development)**。  暗示了光刻不仅仅是光学过程，还涉及到光刻胶的化学变化。
 ![image](https://github.com/user-attachments/assets/cf21a4a3-a63f-4dac-bde1-1147ca432756)
 
+**曝光工具 - 阴影投影 (Exposure Tools - Shadow Printing)**，具体是 **接触式 (Contact printing)** 和 **邻近式光刻 (proximity printing)**。
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/94aeef00-ad1a-4869-b633-1132cf6b51a1" />
 
+**核心内容：**
+
+*   **接触式光刻 (Contact printing):**
+    *   掩模 **紧贴 (in close contact)** 光刻胶。
+    *   **优点:** 分辨率好 (good resolution)，设备简单 (simple equipment setup)。
+    *   **缺点:**  掩模易污染和损坏 (photomask contamination and damaging)。
+
+*   **邻近式光刻 (Proximity printing):**
+    *   掩模和光刻胶之间有 **间隙 g (gap g)**。
+    *   **优点:**  掩模污染和损坏小 (minimum photomask contamination and damaging)，设备简单 (simple equipment setup)。
+    *   **缺点:** 分辨率较低 (lower resolution)，分辨率取决于间隙大小。 最小线宽或关键尺寸 (CD) 近似等于根号 g  (CD ≈ √g)。
+
+**总结：**  阴影投影分为接触和邻近两种方式，各有优缺点，主要区别在于掩模是否接触光刻胶以及分辨率的高低。
 
 
 
