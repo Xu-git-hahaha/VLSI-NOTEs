@@ -46,7 +46,7 @@
     *   使用刻蚀技术 (etching technique) 将图案转移到基底 (substrate)。
     *   刻蚀去除无光刻胶保护的基底材料。
     *   最终在基底上复制光刻胶图案。
-![image](https://github.com/user-attachments/assets/ee7ae3c3-db10-480a-bfb5-94520b69f627)
+![image](https://github.com/user-attachments/assets/ee7ae3c3-db10-480a-bfb5-94520b69f627){width="300px"}
 
 
 **光刻胶 (Resists for Energy Beam Lithography)**
